@@ -13,8 +13,8 @@ This paper introduces a tendon-driven continuum mechanism platform for research 
 
 | Description | Link |
 | --- | --- |
-| Creo Design | [tdc_neck_asm.stp] (https://github.com/DLR-RM/TendonDrivenContinuum/blob/main/CAD/tdc_neck_asm.stp) |
-| Assembly Instructions | https://github.com/DLR-RM/TendonDrivenContinuum/tree/main/assembly_instructions |
+| Creo Design | [tdc_neck_asm.stp](https://github.com/DLR-RM/TendonDrivenContinuum/blob/main/CAD/tdc_neck_asm.stp) |
+| Assembly Instructions | [Assembly Instructions]https://github.com/DLR-RM/TendonDrivenContinuum/tree/main/assembly_instructions |
 | Control Interface | | 
 | Readable Version | [Paper] |
 
