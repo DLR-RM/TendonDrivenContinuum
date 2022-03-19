@@ -1,4 +1,4 @@
-# open source tendon-driven continuum mechanism: a platform for common research in soft robotics 
+# Open Source Tendon-Driven Continuum Mechanism: A Platform for Common Research in Soft Robotics 
 
 <p align="center">
 <img src="assembly_instructions/figures/overview.png" align="right" width="40%"/>
