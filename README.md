@@ -9,7 +9,7 @@ This repository covers the CAD files (.stp) and assembly instruction to built a 
 ## Abstract of the publication [1]
 This paper introduces a tendon-driven continuum mechanism platform for research on design, modeling, state estimation, and control of this challenging robotic component envisioned as highly versatile and mechanically robust joint for future robotic systems. To propel the corresponding research areas, a common platform is presented for benchmarking and transferability of results, approaches, and designs among different research groups. The proposed mechanical design including all components is open source, whereas electronics and actuation are off-the-shelf. Research groups are enabled to build up their own system as all relevant CAD-files and assembly instructions are made accessible through GitHub. With that, a fundamental goal in research is achieved and will push continuum joints towards real application scenarios for future soft robots.
 
-## Links
+## Content of the repository
 
 | Description | Link |
 | --- | --- |
